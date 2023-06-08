@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultipleLanguage</string>
+    <string name="text">สวัสดี!</string>
+    <string name="btnTH">ภาษาไทย</string>
+    <string name="btnEN">ภาษาอังกฤษ</string>
+</resources>
